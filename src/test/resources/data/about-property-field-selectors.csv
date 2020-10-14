@@ -1,0 +1,5 @@
+fieldName,fieldSelector,fieldType
+address,address, [class*="lookup"] input
+sameCorrespondanceAddressYes,is-this-the-same,button:nth-child(1)
+sameCorrespondanceAddressNo,is-this-the-same,button:nth-child(2)
+propertyType,type-of-propert,select

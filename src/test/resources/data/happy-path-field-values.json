@@ -1,0 +1,18 @@
+{
+  "about me": {
+    "firstName": "Vangelisz",
+    "lastName": "Ketipisz",
+    "occupation": "Teacher",
+    "maritalStatus": "Single",
+    "telephoneNumber": "8979797788",
+    "email": "vketipisz@qmetric.co.uk",
+    "anybodyLivingYes": true,
+    "anybodyLivingNo": false
+  },
+  "about property": {
+    "address": "45,London Road, Markyate, St. Albans,AL3 8JP",
+    "sameCorrespondanceAddressYes": true,
+    "sameCorrespondanceAddressNo": false,
+    "propertyType": "House"
+  }
+}

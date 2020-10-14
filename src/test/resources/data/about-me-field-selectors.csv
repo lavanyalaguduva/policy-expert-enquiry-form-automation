@@ -1,0 +1,10 @@
+fieldName,fieldSelector,fieldType
+firstName,first-name,input
+lastName,last-name,input
+dob,date-of,select
+occupation,occupat,[class*="lookup"] input
+maritalStatus,marital,select
+telephoneNumber,telephone,input
+email,e-mail,input
+anybodyLivingYes,anybody-living,button:nth-child(1)
+anybodyLivingNo,anybody-living,button:nth-child(2)
