@@ -72,6 +72,10 @@ The `CucumberTestSuite` test runner can be run from the IDE to run all the scena
 
 ```mvn clean verify```
 
+#### Reports
+
+The report can be found under `target/site/index.html`
+
 #### Improvements that can be done
 1. The details page is not friendly enough to perform test automation. So I would definitely talk to the developers and
  make sure they provide an easy way to fill this form. Some options that I can think of are as follows.
