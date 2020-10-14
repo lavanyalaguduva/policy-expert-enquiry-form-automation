@@ -47,6 +47,20 @@ All the test related code is under erc/test folder. The test folder contains 2 m
 4. utils - Includes util classes to create field selectors from csv file 
    and to fetch values to be entered
    
+#### Keys
+Following keys need to be understood while adding data for this test automation. 
+
+1. Section key - This comes from feature file. This decides which csv file should be picked to 
+fetch the field selectors for the fields present in that relevant section.
+
+eg., "about me", "about property"
+
+2. fieldName - should be same in csv and json file. T
+his helps to choose the appropriate field selector and field input value.
+
+To automate further, add rows in csv and json files for the required fields and add methods in 
+FieldInteractions if the method is not available for the field type.
+   
 #### CucumberTestSuite - Test runner   
 
 #### Command to run all the operations
